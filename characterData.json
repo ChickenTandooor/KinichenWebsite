@@ -215,12 +215,9 @@
     ]
     },
     {
-        "id": 1,
-        "name": "Rem",
-        "events": [
-            "https://example.com/rem_normal1.jpg",
-            "https://example.com/rem_normal2.jpg"
-        ],
+        "id": 2283,
+        "name": "Shippo",
+        "events": [],
         "normalPictures": [
       "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/716e1b8c6cd17b771da77391355749f3/images/11718-1730835188450",
       "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/716e1b8c6cd17b771da77391355749f3/images/3970-1730835136513",
