@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kinichen Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Character Gallery</h1>
+    </header>
+
+    <!-- Search Section -->
+    <section id="searchSection">
+        <h2>Search for a Character</h2>
+        <input type="text" id="searchInput" placeholder="Enter Character ID or Name" />
+        <button id="searchButton">Search</button>
+    </section>
+
+    <!-- Character Media Section (hidden initially) -->
+    <section id="characterGallery" style="display: none;">
+        <h2>Character Media</h2>
+
+        <h3>Event Pictures</h3>
+        <div id="eventPictures">
+            <!-- Event pictures will be dynamically added here -->
+        </div>
+
+        <h3>Normal Pictures</h3>
+        <div id="normalPictures">
+            <!-- Normal pictures will be dynamically added here -->
+        </div>
+
+        <h3>GIF Events</h3>
+        <div id="gifEvents">
+            <!-- GIF events will be dynamically added here -->
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

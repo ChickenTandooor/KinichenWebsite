@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Rem",
+        "events": [
+            "https://www.waifugami.com/catalog/c4ca4238a0b923820dcc509a6f75849b/c4ca4238a0b923820dcc509a6f75849b/images/59234",
+            "https://www.waifugami.com/catalog/c4ca4238a0b923820dcc509a6f75849b/c4ca4238a0b923820dcc509a6f75849b/images/59235"
+        ],
+        "normalPictures": [
+            "https://example.com/rem_normal1.jpg",
+            "https://example.com/rem_normal2.jpg"
+        ],
+        "gifEvents": [
+            "https://example.com/rem_gif1.gif",
+            "https://example.com/rem_gif2.gif"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ram",
+        "events": [
+            "https://example.com/event3.jpg",
+            "https://example.com/event4.jpg"
+        ],
+        "normalPictures": [
+            "https://example.com/ram_normal1.jpg",
+            "https://example.com/ram_normal2.jpg"
+        ],
+        "gifEvents": []
+    },
+    {
+        "id": 3,
+        "name": "Emilia",
+        "events": [
+            "https://example.com/emilia_event1.jpg"
+        ],
+        "normalPictures": [
+            "https://example.com/emilia_normal1.jpg"
+        ],
+        "gifEvents": []
+    }
+]

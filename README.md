@@ -1,2 +1,2 @@
-# KinichenWebsite
- Temperory Website for  testing
+# Kinichenwebsite
+ Temprory Website
