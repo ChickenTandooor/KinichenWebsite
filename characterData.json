@@ -133,5 +133,27 @@
         "gifEvents": [
       "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/eb76c035d5d0a2bd2a0d0834b93c9c26/gifs/79.gif"
     ]
+    },
+    {
+        "id": 22267,
+        "name": "Rin",
+        "events": [
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/52917",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/34013",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/28405",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/39520",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/48341"
+    ],
+        "normalPictures": [
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/11722-1730835071384",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/26683-1730835087731",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/3949-1730835021245",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/3950-1730835036711",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/images/3951-1730835050761"
+    ],
+        "gifEvents": [
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/53ed35c74a2ec275b837374f04396c03/gifs/80.gif"
+    ]
     }
+
 ]
