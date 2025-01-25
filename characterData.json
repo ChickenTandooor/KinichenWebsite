@@ -213,6 +213,23 @@
         "gifEvents": [
       "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/d6bcb486f72ae7b5dc68b5b7df7ec887/gifs/83.gif"
     ]
+    },
+    {
+        "id": 1,
+        "name": "Rem",
+        "events": [
+            "https://example.com/rem_normal1.jpg",
+            "https://example.com/rem_normal2.jpg"
+        ],
+        "normalPictures": [
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/716e1b8c6cd17b771da77391355749f3/images/11718-1730835188450",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/716e1b8c6cd17b771da77391355749f3/images/3970-1730835136513",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/716e1b8c6cd17b771da77391355749f3/images/3971-1730835151548",
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/716e1b8c6cd17b771da77391355749f3/images/3972-1730835164558"
+    ],
+"gifEvents": [
+      "https://www.waifugami.com/catalog/fa7cdfad1a5aaf8370ebeda47a1ff1c3/716e1b8c6cd17b771da77391355749f3/gifs/82.gif"
+    ]
     }
 
 ]
